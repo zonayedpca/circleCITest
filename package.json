@@ -1,0 +1,22 @@
+{
+  "name": "circlecitest",
+  "version": "1.0.0",
+  "description": "Simple Circle CI Test And restrict pushing to master repo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/zonayedpca/circleCITest"
+  },
+  "keywords": [
+    "CircleCI",
+    "Test"
+  ],
+  "author": "Zonayed Ahmed",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
